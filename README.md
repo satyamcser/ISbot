@@ -1,4 +1,4 @@
-# JetBot
+# JetBot WE UTILISE IT TO Make our own ISBOT
 
 <!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
 
